@@ -820,7 +820,7 @@ class Artist:
     def get_in_autoscale(self):
         """
         Return boolean flag, ``True`` if artist is included in autoscale
-        calculations.    
+        calculations.
         """
         return self._in_autoscale
 
